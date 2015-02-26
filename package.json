@@ -2,7 +2,7 @@
   "name": "myvocab",
   "version": "1.0.0",
   "description": "Just My Vocab",
-  "main": "src/index.js",
+  "main": "server.js",
   "dependencies": {
     "winston": "^0.9.0"
   },
