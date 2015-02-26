@@ -1,0 +1,26 @@
+{
+  "name": "myvocab",
+  "version": "1.0.0",
+  "description": "Just My Vocab",
+  "main": "src/index.js",
+  "dependencies": {
+    "winston": "^0.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grobakh/myvocab.git"
+  },
+  "keywords": [
+    "vocab"
+  ],
+  "author": "grobakh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grobakh/myvocab/issues"
+  },
+  "homepage": "https://github.com/grobakh/myvocab"
+}
