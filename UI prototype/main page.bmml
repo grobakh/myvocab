@@ -1,0 +1,42 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1010" measuredH="648" mockupW="800" mockupH="600">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="210" y="48" w="800" h="600" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TextArea" x="255" y="283" w="612" h="174" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Svenska%20%E4r%20ett%20%F6stnordiskt%20spr%E5k%20som%20talas%20av%20cirka%20tio%20miljoner%20personer%5B1%5D%2C%20fr%E4mst%20i%20Finland%20och%20Sverige.%20I%20Finland%20talas%20det%20som%20modersm%E5l%20framf%F6r%20allt%20i%20de%20finlandssvenska%20kustomr%E5dena%20och%20p%E5%20%C5land.%20Svenska%20%E4r%20n%E4ra%20besl%E4ktat%20och%20i%20h%F6g%20grad%20%F6msesidigt%20begripligt%20med%20danska%20och%20norska%20%28se%20%22Klassificering%22%29.%20De%20andra%20nordiska%20spr%E5ken%2C%20isl%E4ndska%20och%20f%E4r%F6iska%2C%20%E4r%20mindre%20%F6msesidigt%20begripliga%20med%20svenska%2C%20norska%20och%20danska.%20Liksom%20de%20%F6vriga%20nordiska%20spr%E5ken%20h%E4rstammar%20svenskan%20fr%E5n%20en%20gren%20av%20fornnordiska%2C%20vilket%20var%20det%20spr%E5k%20som%20talades%20av%20de%20germanska%20folken%20i%20Skandinavien.%0A%20%0ARikssvenska%2C%20eller%20standardsvenska%2C%20%E4r%20det%20standardspr%E5k%20som%20sedan%201800-talet%20utvecklats%20ur%20mellansvenska%20dialekter%20och%20var%20v%E4letablerad%20vid%20b%F6rjan%20av%201900-talet.%20Regionala%20varianter%20med%20r%F6tter%20i%20%E4ldre%20lokala%20dialekter%20talas%20fortfarande%2C%20men%20b%E5de%20talspr%E5k%20och%20s%E4rskilt%20skriftspr%E5k%20%E4r%20i%20h%F6g%20grad%20standardiserade%20i%20fr%E5ga%20om%20grammatik%20och%20ordf%F6rr%E5d.%20%C4ven%20mer%20s%E4rpr%E4glade%20dialekter%20talas%20i%20mindre%20utstr%E4ckning.%20De%20%E4r%20inte%20direkt%20hotade%20av%20spr%E5kd%F6d%2C%20men%20har%20varit%20p%E5%20tillbakag%E5ng%20sedan%20b%F6rjan%20av%201900-talet%2C%20trots%20att%20m%E5nga%20%E4r%20v%E4lutforskade%20och%20att%20anv%E4ndningen%20idag%20inte%20l%E4ngre%20motarbetas.%0A%20%0ADen%20vanligaste%20ordf%F6ljden%20i%20svenska%20%E4r%20subjekt-verb-objekt%2C%20%E4ven%20om%20detta%20kan%20variera%20i%20vissa%20typer%20av%20fraser.%20Svenskans%20forml%E4ra%20har%20f%F6rh%E5llandevis%20f%E5%20b%F6jningar.%20Det%20finns%20tv%E5%20grammatiska%20genus%20och%20tv%E5%20kasus%5B2%5D%20och%20substantiv%20b%F6js%20%E4ven%20i%20numerus%2C%20ental%20och%20flertal.%20Adjektiven%20kan%20kompareras%20och%20b%F6js%20ocks%E5%20enligt%20genus%2C%20numerus%20och%20best%E4mdhet.%20Best%E4md%20och%20obest%E4md%20form%20p%E5%20substantiv%20markeras%20fr%E4mst%20genom%20suffix%2C%20%E4ndelser%2C%20och%20kan%20komplementeras%20med%20artiklar.%20Prosodin%2C%20ordmelodin%2C%20inneh%E5ller%20betoning%20och%20%E4ven%20vissa%20tonala%20drag.%20Svenskan%20har%20en%20f%F6rh%E5llandevis%20stor%20m%E4ngd%20vokaler%20och%20utm%E4rks%20genom%20ett%20v%E4ldigt%20variationsrikt%20fonem%20i%20det%20s%E5%20kallade%20sje-ljudet.</text>
+        <value>0</value>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::ButtonBar" x="255" y="178" w="-1" h="-1" measuredW="224" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u0428%u0432%u0435%u0434%u0441%u043A%u0438%u0439%20%u044F%u0437%u044B%u043A%2C%20%u041F%u043E%u043B%u044C%u0441%u043A%u0438%u0439%20%u044F%u0437%u044B%u043A</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::IconLabel" x="876" y="139" w="-1" h="-1" measuredW="119" measuredH="39" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>EmoticonIcon%7Csmall</icon>
+        <text>grobakh@gmail.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="__group__" x="255" y="220" w="612" h="48" measuredW="612" measuredH="48" zOrder="3" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="21" w="612" h="-1" measuredW="235" measuredH="27" zOrder="0" locked="false" isInGroup="6">
+          <controlProperties>
+            <text>https%3A//sv.wikipedia.org/wiki/Svenska</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="137" measuredH="21" zOrder="1" locked="false" isInGroup="6">
+          <controlProperties>
+            <text>%u0418%u0441%u0442%u043E%u0447%u043D%u0438%u043A%20%u0438%u043B%u0438%20%u043D%u0430%u0437%u0432%u0430%u043D%u0438%u0435%3A</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="257" y="478" w="-1" h="-1" measuredW="172" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u041D%u0430%u0439%u0442%u0438%20%u043D%u0435%u0437%u043D%u0430%u043A%u043E%u043C%u044B%u0435%20%u0441%u043B%u043E%u0432%u0430%21</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
