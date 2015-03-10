@@ -1,2 +1,6 @@
-# my vocab
-This project is to extract unkown words from text of defined language and store them per user.
+О проекте: https://github.com/grobakh/myvocab/wiki
+
+Новости: 
+Разработан прототип главного экрана. 
+В процессе экран результатов и вопросы к экранам для тестирования
+
