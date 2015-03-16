@@ -4,6 +4,8 @@
   "description": "Just My Vocab",
   "main": "server.js",
   "dependencies": {
+    "good": "^5.1.2",
+    "hapi": "^8.4.0",
     "winston": "^0.9.0"
   },
   "devDependencies": {},
