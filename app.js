@@ -29,7 +29,7 @@ function compile(str, path) {
 
 app.use(stylus.middleware(
   { 
-    src: __dirname + '/public', 
+    src: path.join(__dirname, 'public'), 
     compile: compile
   }
 ))
