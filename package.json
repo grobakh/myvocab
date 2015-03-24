@@ -9,13 +9,14 @@
     "express": "^4.12.3",
     "jade": "^1.9.2",
     "morgan": "^1.5.2",
+    "nano": "^6.1.2",
     "nib": "^1.1.0",
     "serve-favicon": "^2.2.0",
     "stylus": "^0.50.0"
   },
   "devDependencies": {},
   "scripts": {
-    "test": ""
+    "test": "nodeunit"
   },
   "repository": {
     "type": "git",
